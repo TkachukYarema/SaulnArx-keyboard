@@ -11,11 +11,11 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP21", "GP20", "GP19", "GP18", "GP17", "GP16", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7"],
+        "cols": ["GP7", "GP6", "GP5", "GP4", "GP3", "GP2", "GP16", "GP17", "GP18", "GP19", "GP20", "GP22"],
         "rows": ["GP11", "GP12", "GP13", "GP14", "GP15"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/TkachukYarema",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
