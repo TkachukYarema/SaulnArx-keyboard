@@ -1,10 +1,10 @@
 # sauln_arx
 
+<img src="keyphoto.jpg" alt="markdown language" width="60%" height="60%">
 
-*pico OnePiece-ortholinear keyboard with analog joystick*
+*pico OnePiece-ortholinear keyboard*
 
 * Hardware Supported: *raspberry pi pico, Cherry MX switches*
-* Hardware Availability: *Links to where you can find this hardware*
 
 
 
@@ -17,3 +17,6 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+## Assembly
+this keyboardis highly based on vostoklabs-[ortho 20_20](https://github.com/vostoklabs/zmk-config-ortho20_20). you can refer to build video and material links in linked repository
